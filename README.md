@@ -19,3 +19,24 @@ https://user-images.githubusercontent.com/75929665/171724164-658dfb7b-2bdd-496a-
 
 https://github.com/halitmesut/cripto_top_100 
 
+____________________________________________
+
+https://github.com/halitmesut/weather_app
+
+
+https://user-images.githubusercontent.com/75929665/171743056-99724fc7-9199-4a78-9f33-1a9238d72f69.mov
+
+
+https://github.com/halitmesut/weather_app
+
+____________________________________________
+
+https://github.com/halitmesut/BMI_body_mass_index_calculator
+
+
+https://user-images.githubusercontent.com/75929665/171743268-b335c202-a6e2-442c-a41e-bc40793699bb.mov
+
+
+https://github.com/halitmesut/BMI_body_mass_index_calculator
+
+
