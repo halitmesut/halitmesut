@@ -1,5 +1,10 @@
-### Hi there 👋
-I'm Halit from Istanbul, and I do content on Design and Development. I really enjoy learning languages and frameworks like Dart and Flutter, as well as work in WordPress. I also enjoy ui, ux, and design in general.
+![kapak](https://user-images.githubusercontent.com/75929665/171749074-9583be54-c1b9-4f4a-8aa3-ceadfe01635d.png)
+
+
+### I'm Mesut from Istanbul
+
+I do content on Design and Development. I really enjoy learning languages and frameworks like Dart and Flutter, as well as work in WordPress. I also enjoy ui, ux, and design in general.
+
 
 
 https://github.com/halitmesut/chat_app
